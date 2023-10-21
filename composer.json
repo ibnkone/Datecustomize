@@ -1,0 +1,27 @@
+{
+    "name": "ibnkone/datecustomize",
+    "description": "Customize Date",
+    "type": "library",
+    "require": {
+        "php": "7.1",
+        "phpunit/phpunit": "9.6"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Ibnkone\\Datecustomize\\": "src/"
+        }
+    },
+    "autoload-dev" :  { 
+        "psr-4" :  { 
+            "Ibnkone\\Datecustomize\\Tests\\" :  "tests/" 
+        } 
+    } , 
+    "authors": [
+        {
+            "name": "mamadou kone",
+            "email": "ibounekone@gmail.com"
+        }
+    ]
+}
