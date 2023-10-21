@@ -3,7 +3,7 @@
     "description": "Customize Date",
     "type": "library",
     "require": {
-        "php": "5.3.0",
+        "php": ">=5.3.0",
         "phpunit/phpunit": "9.6"
     },
     "license": "MIT",
