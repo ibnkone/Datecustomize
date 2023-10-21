@@ -17,12 +17,7 @@
         "psr-4": {
             "Ibnkone\\Datecustomize\\": "src/"
         }
-    },
-    "autoload-dev" :  { 
-        "psr-4" :  { 
-            "Ibnkone\\Datecustomize\\Tests\\" :  "tests/" 
-        } 
-    } , 
+    }, 
     "authors": [
         {
             "name": "mamadou kone",
